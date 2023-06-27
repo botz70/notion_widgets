@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/it/46d008d95/lugano/" data-label_1="LUGANO (CH)" data-label_2="Previsioni del tempo" data-font="Jura" data-days="5" data-theme="pure" data-suncolor="#e9ef1a" >LUGANO (CH) Previsioni del tempo</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
